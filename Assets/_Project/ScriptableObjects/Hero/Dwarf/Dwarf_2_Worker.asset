@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce493731d03f65b4d96a1525dc4ee8fb, type: 3}
+  m_Name: Dwarf_2_Worker
+  m_EditorClassIdentifier: 
+  uid: 102
+  charName: 
+  charDesc: 
+  prefab: {fileID: 105987454180886533, guid: 24ea6f345e45f4a49b3b23b6a401bf1e, type: 3}
+  attackRange: 8
+  attackDamage: 50
+  attackSpeed: 1
+  grade: 2
+  mergedHeroData: {fileID: 11400000, guid: f601da350972e0844b0e3c0363e4ed52, type: 2}
+  attackClip: {fileID: 0}

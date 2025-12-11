@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5701ecd079a225f4da66191859de7e52, type: 3}
+  m_Name: Subrace_4_Troll
+  m_EditorClassIdentifier: 
+  uid: 0
+  charName: 
+  charDesc: 
+  prefab: {fileID: 2418411367017928488, guid: eff03cf87c14ec64581ac7d25746f4d0, type: 3}
+  hp: 130
+  def: 0
+  speed: 7
+  stage: {x: 0, y: 0}
+  rewardValue: 0
+  dieClip: {fileID: 0}

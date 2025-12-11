@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+/[Aa]ssets/_Project/[Ee]xternalAssets*
+/[Aa]ssets/[Pp]lugins/[Dd]emigiant*
+/[Aa]ssets/[Pp]lugins/[Ee]asy performant outline*

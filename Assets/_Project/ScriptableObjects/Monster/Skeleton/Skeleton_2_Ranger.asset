@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5701ecd079a225f4da66191859de7e52, type: 3}
+  m_Name: Skeleton_2_Ranger
+  m_EditorClassIdentifier: 
+  uid: 0
+  charName: 
+  charDesc: 
+  prefab: {fileID: 4566444014881639112, guid: a625789e4004bb64f9a2671c664e44f5, type: 3}
+  hp: 110
+  def: 0
+  speed: 5
+  stage: {x: 0, y: 0}
+  rewardValue: 0
+  dieClip: {fileID: 0}
